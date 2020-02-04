@@ -1,4 +1,4 @@
-# Cave Arts
+
 
 ## Dataset:
 
@@ -24,10 +24,8 @@ You can find the dataset [here](https://www.kaggle.com/chirin/africa-economic-ba
 | <i>banking_crisis</i> | Categorical (String) | "no_crisis" means that no banking crisis occurred in the year and "crisis" means that a banking crisis occurred in the year. |
 
 ## Web App:
-Enjoy at [Cave Arts Heroku app](https://cave-arts.herokuapp.com/).
+Enjoy at https://global-warming-dv.herokuapp.com/
 
 ## Members:
-<ul>
-<li>Kauser Al Rashid, M20190543</li>
-<li>Pedro Reis, M20180428</li>
-</ul>
+Norayr Meliksetyan, M20190687
+
