@@ -2,7 +2,6 @@
 
 ## Dataset:
 
-You can find the dataset [here](https://www.kaggle.com/chirin/africa-economic-banking-and-systemic-crisis-data).
 
 #### Variables explanation:
 
