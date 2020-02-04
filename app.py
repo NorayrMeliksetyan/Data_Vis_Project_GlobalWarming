@@ -46,7 +46,7 @@ home_page = html.Div([
                 | level | Sea level in the given year |
                 | mass | Glacier mass in the given year  |
                 | . |
-                | **Second dataset** |
+                | **GDP, Temperature, GHG and Meat Consumption** |
                 | year | The year in which the measurment was taken |
                 | gdp | The Gross domestic product of the given year |
                 | ghg_emission | The greenhouse gas emission index |
