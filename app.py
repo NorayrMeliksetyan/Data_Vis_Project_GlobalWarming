@@ -42,12 +42,18 @@ home_page = html.Div([
                 |-------------------------|:-----------------------------------------------------------------------|
                 |  |
                 | **Sea level and Glacier mass** |
-                | year | Indicates the .... |
-                | level | Sea level .... |
-                | mass | Glacier mass .... |
+                | year | The year at which the measurment was taken|
+                | level | Sea level in the given year |
+                | mass | Glacier mass in the given year  |
                 | . |
                 | **Second dataset** |
-                | year | Indicates the .... |
+                | year | The year in which the measurment was taken |
+                | gdp | The Gross domestic product of the given year |
+                | ghg_emission | The greenhouse gas emission index |
+                | ghg_emission | The greenhouse gas emission index |
+                | temerature  | Average annual temperature by country (C) |
+                | meat_consuption  | Average annual meat consumption by country |
+                
                 '''),
         ],
             className="row", style={'width': '80%', 'display': 'inline-block'}),
